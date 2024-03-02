@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 If you want to run the project locally, on your computer, firstly log in to OpenWeatherMapAPI or create account if you don't have one and generate API KEY. 
-Then create variable in .env file called `REACT_APP_API_KEY='YOUR_API_KEY'`. Then run `npm start` command and go to `http://localhost:3000` to view the web app in your browser.
+Then create variable in .env file called `REACT_APP_API_KEY='YOUR_API_KEY'`. Then install all the necessary dependencies. Next run `npm start` command and go to `http://localhost:3000` to view the web app in your browser.
 
-If you want to see the live deployed version of the app, visit: 
+If you want to see the live deployed version of the app, visit: https://weather-app-six-ochre-63.vercel.app/
 
 ## Available Scripts
 
