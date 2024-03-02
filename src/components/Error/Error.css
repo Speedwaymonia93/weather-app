@@ -1,0 +1,16 @@
+.error-message{
+    font-size: 25px;
+    color: #800000;
+    letter-spacing: 4px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.error-comment{
+     color: #800000;
+}
+
+.error-image{
+    width: 175px;
+    height: 175px;
+}
